@@ -4,7 +4,7 @@
 #include <gmp.h>
 #include <stdint.h>
 //gmplib.org, remember to look at this for help. 
-//This looks eerily alike Parth's code, it's almost as if he helped me very closely, please don't hurt me. 
+//This looks eerily alike Parth's code, it's almost as if he helped me very closely, please don't hurt me, I even made notes to show I'm not dumb.
 
 void fib(size_t n, mpz_t m){
     size_t count = 0;
